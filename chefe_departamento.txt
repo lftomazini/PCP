@@ -1,1 +1,9 @@
-Aquele nome
+O curso de Engenharia de Computação da UFSCar foi um dos primeiros a serem criados no país nessa área, tendo ênfase na área de automação e controle. O profissional dessa área se preocupa constantemente com a eficiência do setor produtivo. Para isso, agrega os conhecimentos de software e hardware e desenvolve sistemas computacionais visando a melhoria de processos, redução de custos, diminuição do desperdício e confiabilidade das informações da empresa.
+
+O curso apresenta uma duração de 5 anos, contemplando aulas teóricas, aulas práticas, trabalho de conclusão de curso e estágio supervisionado. O Departamento de Computação oferece ao curso de Engenharia de Computação um total de 30 vagas para ingresso por ano, além de 10 vagas para alunos que desejam transferir de curso ou universidade. Possui conceito .getConceitoMEC() pelo Ministério da Educação e .getConceitoGuiaDoEstudante() pelo guia do estudante.
+
+A contextualização e o desafio para busca de novos temas e tecnologias têm sido colocados em ênfase nas atividades curriculares, buscando aproximação entre a área acadêmica e o mercado de trabalho por meio da análise e aplicação de conceitos aprendidos em sala de aula.
+
+Os mais recentes anos foram particularmente ricos em atividades envolvendo nossos alunos, sendo marcados por diversas premiações. Além disso, aqueles que por opção ou vocação se interessam em aprofundar seus estudos, têm muitas oportunidades durante a graduação na forma de projetos no PET (Programa de Educação Tutorial), Empresa Júnior, Centro Acadêmico e Iniciação Científica, ou, depois de graduados, na forma de mestrado e doutorado.
+
+Para se inscrever no curso o candidato deve prestar o ENEM no ano anterior ao que desejam entrar na universidade. Após realizada esta prova deve-se fazer a inscrição no SISU no início do ano que deseja-se ingressar na UFSCar, podendo  escolher até duas opções de curso (sendo elas em diferentes universidades ou não). Por fim, a UFSCar divulgará a lista dos alunos aprovados, para que possam fazer a suas matrículas.
